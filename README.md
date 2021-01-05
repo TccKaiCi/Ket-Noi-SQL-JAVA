@@ -1,4 +1,4 @@
-# Ket-Noi-SQL
+# Ket-Noi-SQL-JAVA
 
 | Loại | Link |
 | ---------- | ---- |
